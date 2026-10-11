@@ -1,3 +1,0 @@
-google-genai
-# optional, only for videos with no caption track:
-# faster-whisper

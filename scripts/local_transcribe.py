@@ -1,1 +1,0 @@
-../.claude/skills/youtube-to-agent/scripts/local_transcribe.py

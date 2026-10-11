@@ -1,7 +1,0 @@
-notes/*
-!notes/.gitkeep
-builds/
-__pycache__/
-*.wav
-*.mp4
-.env
